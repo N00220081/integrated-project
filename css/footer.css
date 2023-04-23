@@ -1,0 +1,64 @@
+.footer {
+    background-color: black;
+    display: flex;
+}
+
+
+
+.footer .headingSocials {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+.footer .socials {
+    display: flex;
+
+}
+
+.headingSocials h1 {
+    color: white ;
+    font-family: "Lato", sans-serif;
+    margin: 0px;
+    font-style: italic;
+}
+
+.headingSocials  i{
+    font-size: 20px;
+    margin-right: 25px;
+}
+
+.footerInfo {
+    margin-bottom: 50px;
+}
+
+.footerInfo p {
+    color: white ;
+    font-family: "Lato", sans-serif;
+    margin: 0px;
+    font-weight: 800;
+    font-size: 13px;
+}
+
+.infos {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.copyrights {
+    display: flex;
+    justify-content: space-around;
+}
+
+.detail {
+    display: flex;
+}
+
+.detail i {
+    margin-right: 5px;
+    font-size: 10px;
+}
+
+.detail p {
+    font-size: 7px;
+}

@@ -1,0 +1,13 @@
+.section3 {
+    border-bottom: 1px solid #e2e2e2;
+}
+
+.section3 .mediumStory .content {
+    border-bottom: 1px solid #e2e2e2;
+    margin-bottom: 15px;
+}
+
+.section3 .noImageStory .content {
+    border-bottom: 1px solid #e2e2e2;
+    margin-bottom: 15px;
+}

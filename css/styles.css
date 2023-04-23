@@ -1,0 +1,85 @@
+/* FONTS */
+h5,
+h6,
+h4,
+h1 {
+  font-family: "Lato", sans-serif;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+h2,
+h3 {
+  font-family: "Playfair Display", sans-serif;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  color: #191817;
+}
+
+h3 {
+  line-height: 27px;
+}
+
+h1 {
+
+  color: #130b36;
+}
+
+h2 {
+  font-size: 23px;
+  line-height: 27px;
+}
+
+h4 {
+  font-size: 13px;
+  color: #4e4e4e;
+}
+
+h5 {
+  font-size: 12px;
+  color: #636262;
+}
+
+h6 {
+  font-weight: 800;
+  color: #130b36;
+  font-size: 11px;
+}
+
+.newsHeading{
+  border-bottom: 1px solid #e2e2e2;
+  border-top: 3px double #e2e2e2;
+}
+
+/* ALL STORIES */
+.image img {
+  object-fit: cover;
+  margin-bottom: 5px;
+}
+
+.largeStory .image img {
+  height: 450px;
+  width: 860px;
+}
+.largeStory {
+  border-right: 1px solid #e2e2e2;
+}
+
+.bottomStory{
+
+  margin-bottom: 5px;
+  border-top: 1px solid #e2e2e2;
+
+}
+
+.largeStory .content h2 {
+  font-size: 27px;
+}
+
+.largeStory .content h4{
+  font-size: 14px;
+}
+
+h2 a:hover{
+  text-decoration: underline solid black 1px;
+}

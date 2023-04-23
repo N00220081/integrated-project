@@ -1,0 +1,43 @@
+header {
+    background-color: black;
+}
+
+header .container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.categories h3 {
+    color: white ;
+    font-family: "Lato", sans-serif;
+    margin: 0px;
+    font-size: 13px;
+    padding: 10px 30px;
+}
+
+header .heading h1 {
+    color: white ;
+    font-family: "Lato", sans-serif;
+    margin: 0px;
+    font-style: italic;
+    
+}
+
+header .categories {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+
+header .panel {
+    margin-top: 11px;
+
+}
+
+header .panel i {
+    font-size: 28px;
+}
+
+.categories a:hover {
+  background-color: rgb(44, 44, 44);  
+}

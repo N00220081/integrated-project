@@ -1,0 +1,54 @@
+h1 {
+    color: black;
+}
+
+.title .heading h1 {
+    padding-left: 250px;
+    padding-right: 250px;
+    font-family: "Playfair Display", sans-serif;
+    font-weight: 600;
+    line-height: 45px;
+    margin-bottom: 11px;
+    color: black;
+}
+
+.title .heading h2 {
+    padding-left: 250px;
+    padding-right: 250px;
+    font-family: "Lato", sans-serif;
+    color: #4e4e4e;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 15px;
+}
+
+.title .heading {
+    border-bottom: 1px solid #cacaca;
+    
+}
+
+.time {
+    display: flex;
+    
+}
+
+.authorTime {
+    margin-left: 112px;
+}
+
+.imageSection img {
+    width: 976px;
+    height: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.articleText {
+    padding-right: 100px;
+}
+
+.articleText p {
+font-family: "Lato", sans-serif;
+font-size: 20px;
+}
