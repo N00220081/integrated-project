@@ -38,6 +38,7 @@
     margin: 0px;
     font-weight: 800;
     font-size: 13px;
+    padding: 10px 30px;
 }
 
 .infos {
@@ -61,4 +62,8 @@
 
 .detail p {
     font-size: 7px;
+}
+
+.infos a:hover {
+    background-color: rgb(44, 44, 44);  
 }

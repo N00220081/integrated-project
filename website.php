@@ -304,13 +304,13 @@ $newsStories = Story::findAllLimit(4,16);
             <div class="width-12">
                 <div class="footerInfo">
                     <div class="infos">
-                        <p>NEWSLETTER</p>
-                        <p>CONTACT US</p>
-                        <p>CUSTOMER SERVICE</p>
-                        <p>CAREERS</p>
-                        <p>SITEMAP</p>
-                        <p>ABOUT US</p>
-                        <p>MORE</p>
+                        <a href="#"><p>NEWSLETTER</p></a>
+                        <a href="#"><p>CONTACT US</p></a>
+                        <a href="#"><p>CUSTOMER SERVICE</p></a>
+                        <a href="#"><p>CAREERS</p></a>
+                        <a href="#"><p>SITEMAP</p></a>
+                        <a href="#"><p>ABOUT US</p></a>
+                        <a href="#"><p>MORE</p></a>
                     </div>
                 </div>
             </div>

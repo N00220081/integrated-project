@@ -102,8 +102,6 @@ catch (Exception $ex) {
         </div>
     </div>
 
-                    
-    
     <div class="imageSection">
         <div class="container">
             <div class="width-12">
@@ -121,6 +119,51 @@ catch (Exception $ex) {
                     <p><?=$story->article?></p>
                 </div>
                 </div>
+            </div>
+        </div>
+    </div>
+
+        <!-- FOOTER -->
+        <div class="footer">
+        <div class="container">
+            <div class="width-12">
+                <div class="headingSocials">
+                <div class="footerHeading">
+                    <h1>NEWS</h1>
+                </div>
+
+                <div class="socials">
+                    <a href="#"><i class="fa-brands fa-facebook" style="color: #ffffff;"></i></a>
+                    <a href="#"><i class="fa-brands fa-instagram" style="color: #ffffff;"></i></a>
+                    <a href="#"><i class="fa-brands fa-twitter" style="color: #ffffff;"></i></a>
+                    <a href="#"><i class="fa-brands fa-tiktok" style="color: #ffffff;"></i></a>
+                    <a href="#"><i class="fa-brands fa-youtube" style="color: #ffffff;"></i></a>
+                </div>
+            </div>
+
+            <div class="width-12">
+                <div class="footerInfo">
+                    <div class="infos">
+                        <a href="#"><p>NEWSLETTER</p></a>
+                        <a href="#"><p>CONTACT US</p></a>
+                        <a href="#"><p>CUSTOMER SERVICE</p></a>
+                        <a href="#"><p>CAREERS</p></a>
+                        <a href="#"><p>SITEMAP</p></a>
+                        <a href="#"><p>ABOUT US</p></a>
+                        <a href="#"><p>MORE</p></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="width-12">
+                <div class="copyrights">
+                    <div class="detail">
+                        <i class="fa-regular fa-copyright" style="color: #ffffff;"></i>
+                        <p style="color: #ffffff;">NEWS MEDIA COMPANY</p>
+                    </div>
+                </div>
+            </div>
+
             </div>
         </div>
     </div>
